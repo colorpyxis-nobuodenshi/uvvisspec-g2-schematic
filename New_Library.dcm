@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7451
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD7441_7451.pdf
+$ENDCMP
+#
+$CMP ADT7410
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7410.pdf
+$ENDCMP
+#
+#End Doc Library

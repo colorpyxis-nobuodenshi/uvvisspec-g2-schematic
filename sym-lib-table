@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri ${KIPRJMOD}/New_Library.lib)(options "")(descr ""))
+  (lib (name minispectrometer-rescue)(type Legacy)(uri ${KIPRJMOD}/minispectrometer-rescue.lib)(options "")(descr ""))
+)
